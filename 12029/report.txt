@@ -1,0 +1,41 @@
+Municipio: Benlloc
+Nombre en Catastro: BENLLOCH
+Código: 12029
+Fecha: 30/10/18
+Opciones: -td
+Superficie: 42,5 km²
+Población: 1181 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/ca:Bell-lloc (Plana Alta)
+Wikidata: https://www.wikidata.org/wiki/Q1635703
+
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.1.6
+Plataforma: Linux 4.9.0-6-amd64 #1 SMP Debian 4.9.88-1+deb9u1 (2018-05-07) x86_64 
+Versión de QGIS: 2.14.11-Essen
+Versión de GDAL: 2.1.2
+Número de CPUs: 1
+Frecuencia de CPU: 0,0 Mhz
+Tiempo de ejecución: 37,4 segundos
+Memoria total: 4.539,61 GB
+Memoria física usada: 129,86 GB
+Memoria virtual usada: 953,19 GB
+
+=Direcciones=
+
+==Datos de entrada==
+Fecha de origen: 2018-04-21
+Número de características: 1.427
+  Tipo entrada: 1.067
+  Tipo parcela: 360
+Códigos postales: 1
+Nombres de viales: 89
+
+==Procesado==
+Direcciones eliminadas por nombre de vía: 1
+
+==Datos de salida==
+Direcciones: 1.426
+  En nodos de entrada: 1.067
+  En edificios: 359
+  Tipo addr:street: 1.400
+  Tipo addr:place: 26
